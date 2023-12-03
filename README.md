@@ -1,6 +1,6 @@
 # Аналитик данных (Data Scientist)
 
-# Corporate-University-Sberbank
+#АНО ДПО «Корпоративный университет Сбербанка»
 ![Image](sber.png)
 # Репозиторий проектов и материалов по предмету Data Science
 
