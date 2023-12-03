@@ -12,3 +12,4 @@
 | Номер проекта | Название и ссылка | Тема проекта                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
 |1              |[EDA_Netflix](https://github.com/AlexeyProsekov/Data_Scientist-SberUniversity/blob/main/1_Project_EDA_Netflix/EDA_Netflix.ipynb)|Исследовательский анализ рейтингов шоу Netflix|
+|2              |[PCA_](https://github.com/AlexeyProsekov/Data_Scientist-SberUniversity/blob/main/2_BDZ_1/HomeWork1_PCA.ipynb)|Звук PCA|
