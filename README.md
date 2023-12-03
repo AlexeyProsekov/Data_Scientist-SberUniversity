@@ -11,4 +11,4 @@
 ## Описание проектов:
 | Номер проекта | Название и ссылка | Тема проекта                                                     |
 |---------------|-------------------|------------------------------------------------------------------|
-|1              |[EDA_Netflix](ссылка)|Исследовательский анализ рейтингов шоу Netflix|
+|1              |[EDA_Netflix](https://github.com/AlexeyProsekov/Data_Scientist-SberUniversity/blob/main/1_Project_EDA_Netflix/EDA_Netflix.ipynb)|Исследовательский анализ рейтингов шоу Netflix|
